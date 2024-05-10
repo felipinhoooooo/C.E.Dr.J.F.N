@@ -32,9 +32,9 @@ img {
     width: 50%;
     margin: 0  16px;
     font-size: 28px;
-    position: relative;
+    position: absolute;
     top: 5px;
-    left: 370px;
+    left: 800px;
     list-style-type: none
 };
 .botao-de-imagem {
