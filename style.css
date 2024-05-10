@@ -1,0 +1,136 @@
+.cabeçalho-itens{
+    background: linear-gradient(90deg, #000000,#2a28cf);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 12px 0;
+}
+.cabeçalho-image{
+    background-image: url(Group\ 4\ -\ Atalho.lnk);
+}
+.cabeçalho-insta{
+    width: 40px; 
+    height: 40px;
+    position: absolute;
+    top: 40px;
+    left: 1135px; 
+}
+body {
+   background:  linear-gradient(90deg, #000000,#2a28cf);
+color: white;
+}
+img {
+    width: 95px; 
+    height: 65px;
+    position: absolute;
+    top: 25px;
+    left: 10px;
+}
+.cabeçalho-lista-item{
+    font-family: "Rye", serif;
+    width: 50%;
+    margin: 0  16px;
+    font-size: 28px;
+    position:relative;
+    top: 5px;
+    left: 550px;
+    list-style-type: none
+};
+.botao-de-imagem {
+    display: inline-block;
+    position: relative;
+}
+
+.botao-de-imagem img {
+    display: block;
+    width: 842px;
+    height: 600px;
+    top: 136px;
+    left: 260px;
+}
+.botao-de-imagem:hover {
+    opacity: 0.8;
+}
+.botao-de-imagem area {
+    cursor: pointer;
+}
+
+.rye-regular {
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.titulo{
+    font-family: "Rye", serif;
+        width: 450spx;
+        height: 90px;
+        position: absolute;
+        top: 20px;
+        left: 470px;
+}
+
+.Escola{
+    font-family: "Rye", serif;
+    position: absolute;
+    top: 700px;
+    left: 15px;
+    padding: 12px 0;   
+}
+
+.estudantes {
+    top: 1000px;
+    left: 15px;
+}
+
+.estudante-div {
+    display: flex; 
+    align-items: center; 
+    top: 1000px;
+    left: 40px;
+}
+.felipe-imagem {
+    width: 130px;
+    height: 130px; 
+    border-radius: 20%; 
+    margin-right: 10px; 
+    top: 1340px;
+    left: 610px;
+}
+
+.estudante-nome {
+    font-size: 20px; 
+    position: absolute;
+    top: 1280px;
+    left: 600px;
+}
+.estudante-icone-git{
+    width: 45px; 
+    height: 45px; 
+    margin-right: 10px;
+    top: 1482px;
+    left: 620px;
+}
+.estudante-icone {
+    width: 45px; 
+    height: 45px; 
+    margin-right: 10px;
+    top: 1481px;
+    left: 685px;
+}
+.sub-title{
+    font-family: "Rye", serif;
+    position: absolute;
+    left: 560px;
+}  
+.retangulo-colorido {
+    width: 1343px; 
+    height: 240px; 
+    background-color: rgb(3, 3, 39); 
+    position: absolute; 
+    top: 1298px; 
+    left: 0px; 
+}
+
+
